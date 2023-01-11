@@ -62,3 +62,7 @@ Welcom DS consultancy
             console.log(name,email,phone,time,date)
         }
   
+   </script>
+    
+</body>
+</html>
